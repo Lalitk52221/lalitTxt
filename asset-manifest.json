@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lalitTxt/static/css/main.ff584d17.css",
+    "main.js": "/lalitTxt/static/js/main.6226498b.js",
+    "static/js/787.c3cb1e84.chunk.js": "/lalitTxt/static/js/787.c3cb1e84.chunk.js",
+    "index.html": "/lalitTxt/index.html",
+    "main.ff584d17.css.map": "/lalitTxt/static/css/main.ff584d17.css.map",
+    "main.6226498b.js.map": "/lalitTxt/static/js/main.6226498b.js.map",
+    "787.c3cb1e84.chunk.js.map": "/lalitTxt/static/js/787.c3cb1e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff584d17.css",
+    "static/js/main.6226498b.js"
+  ]
+}
